@@ -1,10 +1,10 @@
 {
-  "name": "@tryfabric/mack",
+  "name": "@totoday/mack",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tryfabric/mack.git"
+    "url": "https://github.com/totoday/mack.git"
   },
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Converts Markdown to Slack BlockKit Blocks",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
@@ -25,7 +25,7 @@
     "gfm",
     "slack"
   ],
-  "author": "Instantish",
+  "author": "totoday",
   "license": "MIT",
   "dependencies": {
     "@slack/types": "^2.1.0",
